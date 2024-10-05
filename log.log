@@ -1,0 +1,15 @@
+Start
+config load start
+write log
+Start
+config load start
+write log
+Start
+config load start
+write log
+Start
+config load start
+write log
+test programs
+1.0
+config load ok
